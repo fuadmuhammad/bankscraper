@@ -1,0 +1,8 @@
+web1:
+  name: test
+  php_extensions:
+    - mysql
+    - curl
+    - pdo_mysql
+    - mcrypt
+    - mbstring
